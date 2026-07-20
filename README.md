@@ -4,7 +4,7 @@
 
 Python script to convert  UTF8 ISO text file from ASCII chars to Umlaute and vive versa. Other characters mixed in (like cyrillic) should not disturb and don't get touched.
 
-uses following Converion table: 
+uses following Conversion table: 
 
 NORMAL_MAP = {
     'ae': 'ä', 'oe': 'ö', 'ue': 'ü',
