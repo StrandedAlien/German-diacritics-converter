@@ -19,7 +19,7 @@ REVERSE_MAP = {
 If you omit target file during launch a file dialog pops ups 
 and let's you choose a txt file to view before processing. 
 
-Chosse conversion direction to start conversion. 
+Choose conversion direction to start conversion. 
 
 The file dialog writes the last used directory to a readable and editable .txt file, reading it back next start.
 That means you can launch the script from any r/w directory youlike. 
