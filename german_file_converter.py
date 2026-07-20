@@ -4,7 +4,7 @@
 # SOFTWARE VERSION : 1.0.0
 # TARGET PLATFORM  : LINUX OS 
 # COMPLIANCE       : based on EN IEC/IEEE 82079-1 
-# AUTHORS          : Stranded Alien
+# AUTHORS          : Stranded Alien, Gemini AI
 # 
 # CHANGELOG:
 # - 2026-07-20: Upgraded to Version 1.0.0 [READY for hobby purposes].
